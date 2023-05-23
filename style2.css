@@ -53,3 +53,8 @@ a{
     margin:0px 20px 0px 0px;
     border:2px solid black 
 }
+.p1{
+border-bottom:1px solid black;
+    padding:0px 0px 10px 0px;
+    padding-bottom:10px;
+}
