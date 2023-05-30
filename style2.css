@@ -53,3 +53,10 @@ a{
     margin:0px 20px 0px 0px;
     border:2px solid black 
 }
+.horse{
+ float:left;
+    width:180px;
+    height: 135px;
+    margin:0px 20px 0px 0px;
+    border:2px solid black
+}
